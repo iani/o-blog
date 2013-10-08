@@ -28,8 +28,9 @@
 
 #+begin_o_blog_hero_unit
 #+HTML: <h1>o-blog</h1>
-
 A stand-alone blog and publication tool for [[http://orgmode.org/][Org-mode]].
+
+This site is a template. <2013-10-08 Tue 16:44>
 #+end_o_blog_hero_unit
 
 #+HTML: <h1 style="font-size: 500%;">Quick start guide</h1>
@@ -53,7 +54,6 @@ A stand-alone blog and publication tool for [[http://orgmode.org/][Org-mode]].
 #+HTML: </div>
 
 #+end_o_blog_row
-
 
 ** Setup
 
